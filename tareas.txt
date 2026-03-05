@@ -1,0 +1,8 @@
+
+1. Aprender Javascript
+2. Aprender de BBDD
+3. Aprender de AWS
+4. Aprender Ingles
+5. Aprender de Node
+6. Aprender de Typescript
+
